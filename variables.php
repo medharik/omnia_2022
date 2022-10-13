@@ -15,7 +15,8 @@ $p="Ali";
    <?php echo "<h1 style='color:green'>$p a $age ans</h1>"; ?>
    <?php echo '<h1 style="color:green">$p a $age ans</h1>'; ?>
    <h3><?=  $p   ?> a <?=$age?> ans</h3>
-   <h3><?php echo   $p   ?> a <?php echo $age?> ans</h3>
+   <h3><?php echo   $p   ?> a <?php echo $age?> ans.</h3>
+   bye bye
 
 </body>
 </html>
